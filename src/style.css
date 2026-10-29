@@ -19,7 +19,7 @@
       ellipse at center,
       rgba(5, 3, 17, 0.78) 0%,
       rgba(5, 3, 17, 0.48) 48%,
-      rgba(5, 3, 17, 0) 78%
+      rgb(5 3 17 / 55%) 78%
     );
     pointer-events: none;
   }
